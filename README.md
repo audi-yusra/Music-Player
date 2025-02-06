@@ -1,4 +1,4 @@
-# Music Player Web Application
+# MelodyFlow – Your Gateway to a Dynamic Music Experience
 
 This project is a **Music Player** web application built using HTML, CSS, and JavaScript. It provides a sleek and user-friendly interface for playing music tracks, with features like play/pause, next/previous track navigation, and a progress bar for tracking playback. The application dynamically updates the background and album cover based on the currently playing song.
 
